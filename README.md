@@ -29,15 +29,23 @@ https://github.com/user-attachments/assets/b3caa6ef-cdf4-41de-bf08-8c66f4dbcc63
 
 ## Keep the set in focus
 
-- **Follow the moment.** See the current track as the video plays. Jump back with a click on its cue.
-- **Keep the finds.** Save tracks and tracklists, then dig deeper on music platforms.
-- **Make it yours.** Choose a tracklist, import a source, or edit tracks and cues yourself.
+### Stay with every track.
 
-<details>
-<summary>A closer look on YouTube</summary>
-<br>
-<img src="assets/youtube-tracklist.jpg" alt="DJ Set Tracker beside a YouTube set, with the current track highlighted" width="100%">
-</details>
+See what’s playing, jump to a cue, and control playback right beside the video.
+
+<img src="assets/demos/follow-the-set.webp" alt="Animated demo: select tracks, jump to timestamps and follow the current song beside the video" width="100%">
+
+### Find the set. Pick your tracklist.
+
+Search an artist, set or video link. Preview the tracks and choose your list.
+
+<img src="assets/demos/find-your-tracklist.webp" alt="Animated demo: search for a DJ set and choose a tracklist" width="100%">
+
+### Go fullscreen. Stay in the music.
+
+Keep the current track in view with a compact overlay, even in fullscreen.
+
+<img src="assets/demos/fullscreen.webp" alt="Animated demo: a compact track overlay accompanies the set in fullscreen" width="100%">
 
 ## Your next set starts here
 

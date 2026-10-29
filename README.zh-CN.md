@@ -29,15 +29,23 @@ https://github.com/user-attachments/assets/a55a4b00-c198-474e-9d65-1b06f4f11ff6
 
 ## 沉浸在每一首里
 
-- **跟上现场。** 曲目随视频同步高亮，点击时间点回到那个瞬间。
-- **留下发现。** 收藏喜欢的曲目和歌单，继续前往音乐平台探索。
-- **整理你的歌单。** 选择已有版本、导入来源，或自己编辑曲目和时间点。
+### 每一首，都跟得上。
 
-<details>
-<summary>看看它在 YouTube 中的样子</summary>
-<br>
-<img src="assets/youtube-tracklist.jpg" alt="DJ Set Tracker 在 YouTube 视频旁展示歌单，高亮当前曲目" width="100%">
-</details>
+当前曲目自动高亮，点选时间点跳转，播放控制就在视频旁。
+
+<img src="assets/demos/follow-the-set.webp" alt="功能动图：点选曲目、跳转时间点，并跟随视频高亮当前歌曲" width="100%">
+
+### 找到这场，选好 tracklist。
+
+搜索艺人、Set 名称或视频链接，预览曲目，选择想听的歌单。
+
+<img src="assets/demos/find-your-tracklist.webp" alt="功能动图：搜索 DJ Set，预览并选择歌单" width="100%">
+
+### 进入全屏，留在音乐里。
+
+轻巧的曲目浮层，全屏时也能随时知道正在播放什么。
+
+<img src="assets/demos/fullscreen.webp" alt="功能动图：进入全屏后，轻巧的曲目浮层继续展示当前歌曲" width="100%">
 
 ## 下一场 Set，从这里开始
 
