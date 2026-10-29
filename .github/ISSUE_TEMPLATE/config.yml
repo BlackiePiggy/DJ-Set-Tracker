@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Installation guide / 安装指南
+    url: https://github.com/BlackiePiggy/DJ-Set-Tracker/blob/main/docs/GETTING-STARTED.md
+    about: Store and ZIP installation, updates and common questions / 安装、更新和常见问题
+  - name: Website support / 官网支持
+    url: https://djsettracker.live/support
+    about: Product support and contact / 产品支持与联系

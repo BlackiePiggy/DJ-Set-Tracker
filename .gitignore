@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+*.dump
+.env*
+.private/
+node_modules/

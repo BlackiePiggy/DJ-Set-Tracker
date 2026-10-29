@@ -1,0 +1,16 @@
+name: Feature idea / 功能建议
+description: Tell us what would improve your next set / 说说怎样改善你的看 Set 体验
+title: '[Idea] '
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: What are you trying to do? / 你想完成什么？
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your suggestion / 你的建议
+    validations:
+      required: true

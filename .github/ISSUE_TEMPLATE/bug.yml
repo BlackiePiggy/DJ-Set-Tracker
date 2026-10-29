@@ -1,0 +1,44 @@
+name: Bug report / 问题反馈
+description: Something isn't working while you watch a set / 使用中遇到了问题
+title: '[Bug] '
+body:
+  - type: markdown
+    attributes:
+      value: 'Please leave out passwords, tokens and private account information. 请勿填写密码、令牌或私人账户资料。'
+  - type: input
+    id: version
+    attributes:
+      label: Extension version / 插件版本
+      placeholder: '0.31.17'
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser and OS / 浏览器与系统
+      placeholder: 'Chrome 140 / macOS, Edge / Windows'
+    validations:
+      required: true
+  - type: dropdown
+    id: channel
+    attributes:
+      label: Installation channel / 安装渠道
+      options:
+        - Chrome Web Store
+        - Microsoft Edge Add-ons
+        - GitHub ZIP (Load unpacked)
+  - type: input
+    id: video
+    attributes:
+      label: Public video URL / 公开视频链接
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps, expected result and actual result / 复现步骤、预期与实际结果
+    validations:
+      required: true
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or additional context / 截图与补充说明
+      description: 'Remove private details from screenshots first. 请先遮盖截图中的私人信息。'
