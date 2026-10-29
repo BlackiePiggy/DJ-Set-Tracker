@@ -27,26 +27,6 @@ https://github.com/user-attachments/assets/a55a4b00-c198-474e-9d65-1b06f4f11ff6
 
 <p align="center"><sub>56 秒，认识 DJ Set Tracker。 · <a href="https://youtu.be/dUOmPjeTa1c">在 YouTube 观看英文版 ↗</a></sub></p>
 
-## 沉浸在每一首里
-
-### 每一首，都跟得上。
-
-当前曲目自动高亮，点选时间点跳转，播放控制就在视频旁。
-
-<img src="assets/demos/follow-the-set.webp" alt="功能动图：点选曲目、跳转时间点，并跟随视频高亮当前歌曲" width="100%">
-
-### 找到这场，选好 tracklist。
-
-搜索艺人、Set 名称或视频链接，预览曲目，选择想听的歌单。
-
-<img src="assets/demos/find-your-tracklist.webp" alt="功能动图：搜索 DJ Set，预览并选择歌单" width="100%">
-
-### 进入全屏，留在音乐里。
-
-轻巧的曲目浮层，全屏时也能随时知道正在播放什么。
-
-<img src="assets/demos/fullscreen.webp" alt="功能动图：进入全屏后，轻巧的曲目浮层继续展示当前歌曲" width="100%">
-
 ## 下一场 Set，从这里开始
 
 1. **安装插件。** 选择上方 Chrome、Edge 商店，或下载最新 ZIP。
