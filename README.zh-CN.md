@@ -2,10 +2,7 @@
 
 [English](README.md) · **简体中文**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="DJ Set Tracker — Stay on the music." width="100%">
-</picture>
+<img src="assets/stay-on-the-music.jpg" alt="DJ Set Tracker — Stay on the music. Product cover showing the extension beside a DJ set." width="100%">
 
 **为观看 DJ Set 而生的浏览器插件。**
 

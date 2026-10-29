@@ -2,10 +2,7 @@
 
 **English** · [简体中文](README.zh-CN.md)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="DJ Set Tracker — Stay on the music." width="100%">
-</picture>
+<img src="assets/stay-on-the-music.jpg" alt="DJ Set Tracker — Stay on the music. Product cover showing the extension beside a DJ set." width="100%">
 
 **A browser extension for watching DJ sets.**
 
