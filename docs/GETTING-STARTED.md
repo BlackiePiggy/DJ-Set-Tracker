@@ -37,6 +37,10 @@ Sign in inside the extension to use account features such as favorites. Save ind
 
 Use the editor to add tracks and mark cue times against playback. Review imported or matched titles, artists and times before publishing. Reading a song link shows a preview; choose **Use cover and details** to adopt it. Importing or saving an editing draft does not by itself publish a community tracklist.
 
+In the editor, clicking a song selects it without moving the video. Use its play icon to select it and jump to its cue; use **Mark time** to apply the current video position. The floating return control scrolls to the playing song without changing which song you are editing. Timeline controls move playback by 3 or 10 seconds in either direction.
+
+Choose **Unknown song** to leave a slot for later identification. Copied edits retain these slots, while public playback and shared pages omit them. For a track playing alongside another, choose whether it has its own timestamp or inherits the parent cue. **Copy & edit** uses the current video's title for the new list.
+
 ## Update a ZIP installation
 
 1. Read the [new release notes](https://github.com/BlackiePiggy/DJ-Set-Tracker/releases/latest) and download the ZIP.
