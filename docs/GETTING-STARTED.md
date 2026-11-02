@@ -37,9 +37,11 @@ Sign in inside the extension to use account features such as favorites. Save ind
 
 Use the editor to add tracks and mark cue times against playback. Review imported or matched titles, artists and times before publishing. Reading a song link shows a preview; choose **Use cover and details** to adopt it. Importing or saving an editing draft does not by itself publish a community tracklist.
 
-In the editor, clicking a song selects it without moving the video. Use its play icon to select it and jump to its cue; use **Mark time** to apply the current video position. The floating return control scrolls to the playing song without changing which song you are editing. Timeline controls move playback by 3 or 10 seconds in either direction.
+In the editor, clicking a song selects it without moving the video. Use its play icon to select it and jump to its cue; use **Mark time** to apply the current video position. The floating return control scrolls to the playing song without changing which song you are editing. Timeline controls move playback by 3, 10 or 30 seconds in either direction.
 
 Choose **Unknown song** to leave a slot for later identification. Copied edits retain these slots, while public playback and shared pages omit them. For a track playing alongside another, choose whether it has its own timestamp or inherits the parent cue. **Copy & edit** uses the current video's title for the new list.
+
+Authorized administrators on supported Bilibili videos can also choose **Import from audio**. Start a full-video scan at the selected interval, pause or resume it, then choose **Enter editor** to bring all identified songs into the existing editor. Audio recognition results, including cue estimates and song metadata, still need checking before publication. This option is not available to general accounts.
 
 ## Update a ZIP installation
 
